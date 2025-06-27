@@ -2,7 +2,7 @@
 google.com, pub-9966962268328280, DIRECT, f08c47fec0942fa0
 google.com, pub-7412758971890594, DIRECT, f08c47fec0942fa0
 # app-ads.txt yandex 30/10/2024
-yandex.com, 308323909, DIRECT
+yandex.com,15576037, DIRECT
 betweendigital.com, 43554, RESELLER
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
@@ -1439,7 +1439,6 @@ consumable.com, 2001585, RESELLER, aefcd3d2f45b5070
 tritondigital.com, 106423, RESELLER, 19b4454d0b87b58b
 adswizz.com, 561, RESELLER
 zetaglobal.net, 815, RESELLER
-
 #app-ads.txt Bigo Ads 30/10/2024
 hyperad.tech, 221, RESELLER
 eskimi.com, 2020000041, RESELLER
@@ -1857,8 +1856,6 @@ sharethrough.com, P1ZsrNeY, RESELLER, d53b998a7bd4ecd2
 themediagrid.com, FWN84J, DIRECT, 35d5010d7789b49d
 contextweb.com, 563551, RESELLER, 89ff185a4c4e857c
 mediafuse.com, 720, RESELLER
-bigo.sg, 130, DIRECT
-
 #app-ads.txt inMobi 28/05/2024
 inmobi.com, 61c8d35636c44322a805b4b45d5fc411, DIRECT, 83e75a7ae333ca9d
 inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
