@@ -1,7 +1,8 @@
-yandex.com, 308323909, DIRECT
+# app-ads.txt AdMob 30/10/2024
 google.com, pub-9966962268328280, DIRECT, f08c47fec0942fa0
 google.com, pub-7412758971890594, DIRECT, f08c47fec0942fa0
-yandex.com,15576037, DIRECT
+# app-ads.txt yandex 30/10/2024
+yandex.com,16654898, DIRECT
 betweendigital.com, 43554, RESELLER
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
